@@ -53,3 +53,6 @@ gem 'simple_form'
 
 # Boostrap saaa for styles
 gem 'bootstrap-sass'
+
+# Devise for user registration
+gem 'devise'

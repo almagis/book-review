@@ -45,3 +45,11 @@ group :development do
   gem 'spring'
 end
 
+
+#### CUSTOM GEMS
+
+# Simple form for form fields
+gem 'simple_form'
+
+# Boostrap saaa for styles
+gem 'bootstrap-sass'

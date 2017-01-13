@@ -56,3 +56,6 @@ gem 'bootstrap-sass'
 
 # Devise for user registration
 gem 'devise'
+
+# Paperclip for model images
+gem 'paperclip'
